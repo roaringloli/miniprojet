@@ -1,0 +1,40 @@
+h1{
+  text-align:center;
+  text-decoration:underline;
+  font-size:2.5aboveem;
+  color:blue;
+  font-family:"Georgia";
+  font-style:italic;
+  border-style:groove;
+  border-color:blue;
+  border-radius:50px;
+  background-color:AliceBlue;
+}
+
+footer{
+  text-align:center;
+}
+
+li{
+  display:inline;
+  margin-left:5px;
+}
+header p{
+  text-align:center;
+}
+section{
+  background-color:lightgrey;
+  margin-right:750px;
+}
+section h5{
+  text-align:center;
+  display:block
+}
+section li{
+  display:block;
+  text-decoration:underline;
+}
+aside{
+  margin-left:800px;
+  margin-top:5px;
+}
