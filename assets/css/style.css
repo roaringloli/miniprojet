@@ -14,7 +14,11 @@ h1{
   border-radius:50px;
   background-color:AliceBlue;
 }
-
+section{
+  border-radius:1px solid black;
+ text-decoration:underline;
+  margin-right:750px;
+}
 footer{
   text-align:center;
 }
@@ -26,10 +30,7 @@ li{
 header p{
   text-align:center;
 }
-section{
- text-decoration:underline;
-  margin-right:750px;
-}
+
 section h5{
   text-align:center;
   display:block
@@ -40,6 +41,7 @@ section li{
 }
 aside{
   margin-left:800px;
+  margin-right:100px;
   margin-top:5px;
 }
 article{
@@ -71,4 +73,49 @@ li a:hover {
 }
 li a.active{
   background-color:limeGreen;
+}
+footer.p4{
+  texte-align:right;
+}
+section.musique{
+  background-color:beige;
+  float:left;
+  margin-left:50px;
+}
+h4.titm{
+  text-decoration:underline;
+  text-align:center;
+}
+article.mus{
+  background-color:AliceBlue;
+  margin-right:50px;
+  float:left;
+  text-align:left;
+}
+a.Mayu{
+  text-decoration:none;
+}
+a.Mayu:visited{
+  color:cadetblue;
+}
+a.Mayu:hover{
+  text-decoration:underline;
+  color:black;
+}
+section.jeux{
+  background-color:beige;
+  float:right;
+  margin-right:50px;
+}
+article.jeux{
+  background-color:AliceBlue;
+  margin-right:50px;
+  float:left;
+  text-align:left;
+}
+h4.jeux{
+  text-align:center;
+}
+footer.p4{
+  padding:0;
 }
