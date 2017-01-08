@@ -119,3 +119,28 @@ h4.jeux{
 footer.p4{
   padding:0;
 }
+a.katawa{
+  text-decoration:none;
+}
+a.katawa:visited{
+  color:cadetblue;
+}
+a.katawa:hover{
+  text-decoration:underline;
+  color:black;
+}
+
+section.lecture{
+  background-color:beige;
+  float:left;
+  margin-right:50px;
+}
+h4.livre{
+  text-align:center;
+}
+article.lect{
+  background-color:AliceBlue;
+  margin-right:50px;
+  float:left;
+  text-align:left;
+}
