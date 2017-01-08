@@ -1,3 +1,7 @@
+body{
+  background-color:beige;
+}
+
 h1{
   text-align:center;
   text-decoration:underline;
@@ -23,7 +27,7 @@ header p{
   text-align:center;
 }
 section{
-  background-color:lightgrey;
+ text-decoration:underline;
   margin-right:750px;
 }
 section h5{
@@ -37,4 +41,34 @@ section li{
 aside{
   margin-left:800px;
   margin-top:5px;
+}
+article{
+  float:left;
+  background-color:Gainsboro;
+  margin-left:150px;
+}
+p.presentation{
+  border:1px solid black;
+  padding:5px;
+  background-color:AliceBlue;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+  margin-right:75px;
+}
+li a {
+  display:inline-block;
+  text-align:center;
+  background-color:LightGrey;
+  position:relative;
+  margin-top:50px;
+}
+li a:hover {
+   background-color: AliceBlue;
+}
+li a.active{
+  background-color:limeGreen;
 }
