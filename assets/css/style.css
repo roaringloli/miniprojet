@@ -68,6 +68,9 @@ li a {
   position:relative;
   margin-top:50px;
 }
+li a:visited{
+  color:#0066cc;
+}
 li a:hover {
    background-color: AliceBlue;
 }
