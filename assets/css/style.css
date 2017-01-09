@@ -195,3 +195,51 @@ article.projet{
 .sakura{
   margin-left:-150px;
 }
+a.facebook{
+  text-decoration:none;
+}
+a.facebook:visited{
+  color:#0060cc;
+}
+a.facebook:hover{
+ text-decoration:underline;
+}
+.galerie{
+  text-align:center;
+}
+.Mayu1{
+  width:50%;
+  margin-left:325px;
+}
+.def{
+ margin-left:575px;
+}
+.Miku{
+  margin-left:425px;
+  width:30%;
+}
+.def2{
+  text-align:center;
+}
+.Tiger{
+  margin-left:325px;
+}
+.def3{
+  text-align:center;
+}
+.LoL{
+  margin-left:260px;
+}
+.def4{
+  text-align:center;
+}
+.KatawaChars{
+  margin-left:450px;
+  width:30%;
+}
+.def5{
+  text-align:center;
+}
+.credits{
+  text-align:center;
+}
