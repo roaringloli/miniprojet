@@ -144,3 +144,51 @@ article.lect{
   float:left;
   text-align:left;
 }
+section.parcours{
+  background-color:beige;
+  display:inline;
+  margin-left:50px;
+}
+h4.parcours{
+  text-align:center;
+}
+.lycee{
+  margin-left:475px;
+}
+article.parcours{
+  background-color:AliceBlue;
+  margin-left:290px;
+  float:left;
+  text-align:left;
+}
+.mtn{
+  text-align:center;
+  margin-left:-700px;
+}
+p.situ{
+  margin-left:-500px;
+  background-color:AliceBlue;
+}
+.map{
+  margin-left:350px;
+}
+section.projet{
+  background-color:beige;
+  text-decoration:none;
+  display:inline;
+  margin-left:50px;
+}
+h4.projet{
+  text-align:center;
+}
+article.projet{
+  background-color:AliceBlue;
+  margin-left:350px;
+  margin-right:350px;
+  text-decoration:none;
+  float:inherit;
+  text-align:left;
+}
+.sakura{
+  margin-left:-150px;
+}
